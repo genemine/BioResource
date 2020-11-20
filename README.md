@@ -128,6 +128,11 @@ Description: open chromatin by ATAC-seq assay in 14 brain regions and 2 cell typ
 Ref: Fullard et al., An atlas of chromatin accessibility in the adult human brain. Genome Research, 2018. <br>
 Web: https://bendlj01.u.hpc.mssm.edu/multireg/ <br>
 
+#### Tissue-resolved TFBS based on DNAse-seq
+Description: Atlas of Transcription Factor Binding Sites from ENCODE DNase Hypersensitivity Data Across 27 Tissue Types.<br>
+Ref: Cory C. Funk et al., Atlas of Transcription Factor Binding Sites from ENCODE DNase Hypersensitivity Data Across 27 Tissue Types, Cell Rep, 2020. <br>
+Web: http://data.nemoarchive.org/other/grant/sament/sament/footprint_atlas <br>
+
 
 ## Gene expresion data
 #### GEO

@@ -117,10 +117,16 @@ Description: Containing 926,535 cis-regulatory elements (CREs) across 839 cell t
 Ref: The Ensembl Regulatory Build, Genome Biology, 2015 <br>
 Web: http://asia.ensembl.org/info/data/ftp/index.html <br>
 
+
 #### ENCODE3
 Description: coordinates of regulatory features such as promoters.<br>
 Ref:  <br>
 Web: https://screen.encodeproject.org/ <br>
+
+#### Tissue/cell type-specific GRNs
+Description: a comprehensive resource of 394 cell type– and tissue-specific gene regulatory networks for human <br>
+Ref: Marbach et al., tissue-specific regulatory circuits reveal variable modular perturbations across complex diseases, Nat Genet, 2016 <br>
+Web: http://regulatorycircuits.org <br>
 
 
 #### BOCA

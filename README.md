@@ -129,6 +129,12 @@ Ref: Marbach et al., tissue-specific regulatory circuits reveal variable modular
 Web: http://regulatorycircuits.org <br>
 
 
+#### RegulomeDB
+Description:  <br>
+Ref:  <br>
+Web: https://regulomedb.org/regulome-search/<br>
+
+
 #### BOCA
 Description: open chromatin by ATAC-seq assay in 14 brain regions and 2 cell types from 5 postmortem human brains.<br>
 Ref: Fullard et al., An atlas of chromatin accessibility in the adult human brain. Genome Research, 2018. <br>

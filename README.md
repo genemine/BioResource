@@ -188,8 +188,20 @@ Web: https://www.ebi.ac.uk/arrayexpress/experiments/E-GEUV-1/.<br>
 
 
 
-
+##################################################
 ## 2. Tools
+##################################################
+
+## Disease-related
+Pascal:  summarize SNP-association P values from GWAS at the level of genes using the Pascal tool
+
+
+##
+
+
+
+
+
 
 
 

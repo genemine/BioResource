@@ -129,6 +129,13 @@ Ref: Marbach et al., tissue-specific regulatory circuits reveal variable modular
 Web: http://regulatorycircuits.org <br>
 
 
+#### GeneEnhancers
+Description: a database of enhancers and their target genes<br>
+Ref: Fishilevich, S. et al. GeneHancer: genome-wide integration of enhancers and target genes in GeneCards. Database (Oxford) 2017, bax028<br>
+Web:http://www.genecards.org/.<br>
+
+
+
 #### RegulomeDB
 Description:  <br>
 Ref:  <br>

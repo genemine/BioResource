@@ -132,7 +132,7 @@ Web: http://regulatorycircuits.org <br>
 #### GeneEnhancers
 Description: a database of enhancers and their target genes<br>
 Ref: Fishilevich, S. et al. GeneHancer: genome-wide integration of enhancers and target genes in GeneCards. Database (Oxford) 2017, bax028<br>
-Web:http://www.genecards.org/.<br>
+Web: https://www.genecards.org/GeneHancer_version_4-4.<br>
 
 
 

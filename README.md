@@ -153,6 +153,12 @@ Ref: Cory C. Funk et al., Atlas of Transcription Factor Binding Sites from ENCOD
 Web: http://data.nemoarchive.org/other/grant/sament/sament/footprint_atlas <br>
 
 
+#### HOCOMOCO database of Transcription factor binding site models
+Description: A collection of TFBS models for humans and mouse
+Ref:
+Web: https://hocomoco11.autosome.ru/
+
+
 ## Gene expresion data
 #### GEO
 Description: The most comprehensive databases of gene expression (both microarray and RNA-seq, and across many species).<br>

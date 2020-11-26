@@ -154,9 +154,9 @@ Web: http://data.nemoarchive.org/other/grant/sament/sament/footprint_atlas <br>
 
 
 #### HOCOMOCO database of Transcription factor binding site models
-Description: A collection of TFBS models for humans and mouse
-Ref:
-Web: https://hocomoco11.autosome.ru/
+Description: A collection of TFBS models for humans and mouse.<br>
+Ref:.<br>
+Web: https://hocomoco11.autosome.ru/.<br>
 
 
 ## Gene expresion data

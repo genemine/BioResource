@@ -221,7 +221,13 @@ Web: https://www.ebi.ac.uk/arrayexpress/experiments/E-GEUV-1/.<br>
 Pascal:  summarize SNP-association P values from GWAS at the level of genes using the Pascal tool
 
 
-##
+#### SNPsnap
+Description: .<br>
+Ref:  .<br>
+Web: https://data.broadinstitute.org/mpg/snpsnap/database_download.html.<br>
+
+####
+
 
 
 

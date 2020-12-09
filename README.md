@@ -159,6 +159,12 @@ Ref:.<br>
 Web: https://hocomoco11.autosome.ru/.<br>
 
 
+#### xQTL Serve  
+Description: Human brain eQTLs. <br>
+Ref:B Ng, An xQTL map integrates the genetic architecture of the human brain’s transcriptome and epigenome, Nat Neurosci. 2017 Oct; 20(10): 1418–1426.<br>
+Web:http://mostafavilab.stat.ubc.ca/xQTLServe
+
+
 ## Gene expresion data
 #### GEO
 Description: The most comprehensive databases of gene expression (both microarray and RNA-seq, and across many species).<br>

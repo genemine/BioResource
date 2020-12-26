@@ -220,13 +220,21 @@ Web: https://www.ebi.ac.uk/arrayexpress/experiments/E-GEUV-1/.<br>
 ## Disease-related
 Pascal:  summarize SNP-association P values from GWAS at the level of genes using the Pascal tool
 
-
 #### SNPsnap
 Description: .<br>
 Ref:  .<br>
 Web: https://data.broadinstitute.org/mpg/snpsnap/database_download.html.<br>
 
-####
+#### HyPrColoc 
+Description: .<br>
+Ref: A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits
+Christopher N Foley, James R Staley, Philip G Breen, Benjamin B Sun, Paul D W Kirk, Stephen Burgess, Joanna M M Howson
+doi: https://doi.org/10.1101/592238 <br>
+Web: https://github.com/jrs95/hyprcoloc <br>
+
+
+
+
 
 
 

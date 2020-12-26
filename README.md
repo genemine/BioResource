@@ -234,8 +234,10 @@ Web: https://github.com/jrs95/hyprcoloc <br>
 
 #### LDlinkR
 Description: The LDlinkR package can be used to obtain linkage disequilibrium matrices from 1000G using the LDmatrix function. Note the matrix from this function would have to be square rooted and ordered in the same way as the markers data frame.<br>
-Ref: 
+Ref: <br>
 Web: <br>
+
+
 
 
 
